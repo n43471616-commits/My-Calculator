@@ -1,5 +1,18 @@
-#Q1. WAP to check if a number entered by the user is odd or even
-user = input("entre number here")
-value = user/2
-if(value %= 0)
-if(user == int(value))
+print("you can calculate below")
+print("Rule:😤😤😤😤😤😤😤⬅️\n➡️Press enter after every one character\n😊😊because i am beginner")
+a = int(input("Start : "))
+b = input( )
+c = int(input( ))
+if(b == "+"):
+    add = a+c
+    print("your result" , add)
+elif(b == "-"):
+    sub = a-c
+    print(sub)
+elif(b == "/" ):
+    div = a/c
+    print("your result", div)
+elif(b == "*"):
+    mul = a*c
+    print("your result", mul)
+
